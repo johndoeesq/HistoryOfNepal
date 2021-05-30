@@ -1,0 +1,21 @@
+.form{
+	width: 290px;
+	margin: 10px auto;
+	background: #cecccc;
+	padding: 23px 10px;
+	border-radius: 10px 10px;
+}
+
+.form .form-control{
+	background: #c0c0c0;
+}
+
+.form .btn{
+	width:100%;
+}
+
+.userimg{
+	width: 23px;
+	height: 23px;
+	border-radius: 50%;
+}
